@@ -1,0 +1,1302 @@
+{
+  message: 'In Development Mode',
+  level: 'debug',
+  service: 'index.ts',
+  timestamp: '2023-01-20T01:43:53.471Z'
+}
+{
+  message: 'Attempting MQTT Connection to broker mqtt://192.168.1.105 with username script',
+  level: 'debug',
+  service: 'index.ts',
+  timestamp: '2023-01-20T01:43:53.537Z'
+}
+{
+  message: 'In Development Mode',
+  level: 'debug',
+  service: 'index.ts',
+  timestamp: '2023-01-20T01:43:53.575Z'
+}
+{
+  message: 'In Development Mode',
+  level: 'debug',
+  service: 'index.ts',
+  timestamp: '2023-01-20T01:43:53.504Z'
+}
+{
+  message: 'TCP Port loaded from configuration file.8080',
+  level: 'info',
+  service: 'index.ts',
+  timestamp: '2023-01-20T01:43:53.510Z'
+}
+{
+  message: 'Server is listening on port 8080',
+  level: 'debug',
+  service: 'index.ts',
+  timestamp: '2023-01-20T01:43:53.579Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:44:04.758Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:44:13.540Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:44:23.853Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:44:33.530Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:44:43.540Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:44:53.554Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:45:03.561Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:45:13.574Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:45:23.583Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:45:33.586Z'
+}
+{
+  message: 'client connected',
+  level: 'debug',
+  service: 'index.ts',
+  timestamp: '2023-01-20T01:45:40.128Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:45:43.594Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:45:53.637Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:46:03.584Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:46:13.616Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:46:23.609Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:46:33.626Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:46:43.641Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:46:53.683Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:47:03.657Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:47:13.668Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:47:23.677Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:47:33.683Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:47:43.697Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:47:53.698Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:48:03.697Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:48:13.698Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:48:23.708Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:48:33.718Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:48:43.728Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:48:53.760Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:49:03.774Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:49:13.780Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:49:23.785Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:49:33.799Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:49:43.811Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:49:53.822Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:50:03.822Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:50:13.834Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:50:23.849Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:50:33.863Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:50:43.868Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:50:53.884Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:51:03.896Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:51:13.906Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:51:23.917Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:51:33.931Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:51:43.944Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:51:53.953Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:52:03.952Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:52:13.960Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:52:23.974Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:52:33.982Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:52:43.984Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:52:53.994Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:53:03.993Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:53:14.012Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:53:24.035Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:53:34.037Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:53:44.041Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:53:54.046Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:54:04.046Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:54:14.059Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:54:24.067Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:54:34.080Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:54:44.092Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:54:54.106Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:55:04.111Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:55:14.126Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:55:24.137Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:55:34.139Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:55:44.149Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:55:54.160Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:56:04.173Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:56:14.181Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:56:24.192Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:56:34.201Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:56:44.202Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:56:54.207Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:57:04.216Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:57:14.233Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:57:24.248Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:57:34.249Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:57:44.262Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:57:54.263Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:58:04.275Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:58:14.265Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:58:24.280Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:58:34.296Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:58:44.309Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:58:54.309Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:59:04.317Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:59:14.336Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:59:24.335Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:59:34.338Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:59:44.350Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T01:59:54.356Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:00:04.354Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:00:14.356Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:00:24.369Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:00:34.386Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:00:44.385Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:00:54.384Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:01:04.402Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:01:14.400Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:01:24.414Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:01:34.424Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:01:44.429Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:01:54.446Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:02:04.442Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:02:14.454Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:02:24.460Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:02:34.471Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:02:44.483Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:02:54.501Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:03:04.512Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:03:14.526Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:03:24.529Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:03:34.544Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:03:44.546Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:03:54.541Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:04:04.546Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:04:14.554Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:04:24.565Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:04:34.585Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:04:44.599Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:04:54.601Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:05:04.621Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:05:14.626Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:05:24.629Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:05:34.649Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:05:44.662Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:05:54.664Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:06:04.683Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:06:14.685Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:06:24.694Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:06:34.717Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:06:44.727Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:06:54.739Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:07:04.753Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:07:14.768Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:07:24.774Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:07:34.776Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:07:44.790Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:07:54.804Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:08:04.822Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:08:14.832Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:08:24.837Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:08:34.853Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:08:44.852Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:08:54.857Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:09:04.870Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:09:14.883Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:09:24.893Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:09:34.907Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:09:44.921Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:09:54.925Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:10:04.936Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:10:14.937Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:10:24.964Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:10:34.984Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:10:44.983Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:10:54.987Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:11:04.986Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:11:15.001Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:11:25.007Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:11:35.010Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:11:45.017Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:11:55.023Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:12:05.020Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:12:15.038Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:12:25.050Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:12:35.055Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:12:45.066Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:12:55.084Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:13:05.096Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:13:15.109Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:13:25.113Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:13:35.122Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:13:45.132Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:13:55.141Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:14:05.152Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:14:15.165Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:14:25.176Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:14:35.183Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:14:45.201Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:14:55.209Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:15:05.224Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:15:15.235Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:15:25.244Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:15:35.256Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:15:45.274Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:15:55.291Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:16:05.291Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:16:15.293Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:16:25.312Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:16:35.323Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:16:45.336Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:16:55.348Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:17:05.348Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:17:15.362Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:17:25.370Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:17:35.380Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:17:45.396Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:17:55.401Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:18:05.407Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:18:15.422Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:18:25.428Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:18:35.433Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:18:45.439Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-20T02:18:55.443Z'
+}

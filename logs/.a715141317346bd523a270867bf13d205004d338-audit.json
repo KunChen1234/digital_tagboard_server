@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\KunChen\\Kiosk_and_tagboard\\digital-tagboard\\backend\\logs\\.a715141317346bd523a270867bf13d205004d338-audit.json",
+    "files": [
+        {
+            "date": 1673215557444,
+            "name": "E:\\KunChen\\Kiosk_and_tagboard\\digital-tagboard\\backend\\logs\\Kiosk-iNaXG4SNvKnQihP6xqS9J2-2023-01-09.log",
+            "hash": "b7ae4001aa6ed2a3ca844fd492959d692772c217db41ffa093349aa2a1e3a404"
+        },
+        {
+            "date": 1673842265819,
+            "name": "E:\\KunChen\\Kiosk_and_tagboard\\digital-tagboard\\backend\\logs\\Kiosk-iNaXG4SNvKnQihP6xqS9J2-2023-01-16.log",
+            "hash": "42e3d632de89234b2c97ab59e2c2e8a274640526a4be60eaefc344a75d764efb"
+        },
+        {
+            "date": 1674179033440,
+            "name": "E:\\KunChen\\Kiosk_and_tagboard\\digital-tagboard\\backend\\logs\\Kiosk-iNaXG4SNvKnQihP6xqS9J2-2023-01-20.log",
+            "hash": "2bd0c78fd14f628e9673047a65ba8e1f47a35739406a0c9683b0a5dea35226ce"
+        }
+    ],
+    "hashType": "sha256"
+}
