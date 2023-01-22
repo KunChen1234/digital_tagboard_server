@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\KunChen\\packaging_practise\\package\\digital_tagboard_server\\logs\\.ac9459a01d0e2e528bb9f1d5194a28d186eef53c-audit.json",
+    "files": [
+        {
+            "date": 1674425723321,
+            "name": "E:\\KunChen\\packaging_practise\\package\\digital_tagboard_server\\logs\\Kiosk-iNaXG4SNvKnQihP6xqS9J2-2023-01-23.log",
+            "hash": "05d4a10452a50a4bb3cdc6543c90919b673781812d4df2b41a4c50f54b245355"
+        }
+    ],
+    "hashType": "sha256"
+}

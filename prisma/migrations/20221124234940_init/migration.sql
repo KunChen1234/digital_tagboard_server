@@ -13,7 +13,7 @@ CREATE TABLE "User" (
     "userID" TEXT,
     "firstName" TEXT,
     "lastName" TEXT,
-    "photo" TEXT NOT NULL DEFAULT 'miner.png',
+    "photo" TEXT NOT NULL DEFAULT E'miner.png',
     "job" TEXT,
     "areaName" TEXT,
     "departmentName" TEXT,
@@ -61,9 +61,6 @@ CREATE UNIQUE INDEX "User_userID_key" ON "User"("userID");
 
 -- CreateIndex
 CREATE UNIQUE INDEX "Department_departmentName_key" ON "Department"("departmentName");
-
--- CreateIndex
-CREATE UNIQUE INDEX "LoginInfo_userID_key" ON "LoginInfo"("userID");
 
 -- CreateIndex
 CREATE UNIQUE INDEX "Location_BSSID_key" ON "Location"("BSSID");

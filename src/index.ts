@@ -12,28 +12,33 @@ import { connect, IClientOptions } from "mqtt";
 import { connectMQTT, listenToMqtt } from "./mqtt";
 import getDayShift from "../database/LoginList/getDayShift";
 import getNightShift from "../database/LoginList/getNightShift";
+import connectDb from "./IsdatabaseConnect";
+
 
 const logger = setLogger("Main of Tagboard");
-
 async function main() {
 	setInterval(async () => {
 		const dayShift = await getDayShift(prisma);
-		logger.debug("day shift", dayShift);
-		// logger.debug(dayShift?.toString());
+
 
 
 		if (dayShift != null) {
 			const resultOfDayShift = dayShift;
+			logger.debug("day shift", dayShift);
+			logger.debug(dayShift);
 			wsServer.emit("DayShifts", resultOfDayShift);
 		}
 		const nightShfit = await getNightShift(prisma);
 
 		if (nightShfit != null) {
 			const resultOfNightShift = nightShfit;
+			logger.debug("night shift", nightShfit);
+			logger.debug(nightShfit?.toString());
 			wsServer.emit("NightShifts", resultOfNightShift);
 		}
 	}, 10000)
 	const prisma = new PrismaClient();
+	connectDb(prisma);
 	const args = parser(process.argv);
 	let tcpPort: number;
 	if ((args.tcpPort) && (typeof (args.tcpPort) === "string")) {

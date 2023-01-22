@@ -10,55 +10,55 @@ import nodeConfig from "config";
  * @returns {winston.Logger} logger object to log to files and console
  */
 function setLogger(name?: string): winston.Logger {
-    require("dotenv").config();
-    const env = process.env.NODE_ENV;
-    console.log("env: " + env);
+	require("dotenv").config();
+	const env = process.env.NODE_ENV;
+	console.log("env: " + env);
 
-    const logDir = normalize(`${__dirname}/../logs`);
-    if (!existsSync(logDir)) {
-        mkdirSync(logDir);
-    }
+	const logDir = normalize(`${__dirname}/../logs`);
+	if (!existsSync(logDir)) {
+		mkdirSync(logDir);
+	}
 
-    const infoTransport: DailyRotateFile = new DailyRotateFile({
-        filename: `${logDir}/Kiosk-${nodeConfig.has("shortId") ? nodeConfig.get("shortId") : ""}-%DATE%.log`,
-        datePattern: "YYYY-MM-DD",
-        zippedArchive: true,
-        maxSize: "20m",
-        maxFiles: "14d",
-        // "json": true,
-        // "level": env === "development" ? "debug" : "info"
-    });
+	const infoTransport: DailyRotateFile = new DailyRotateFile({
+		filename: `${logDir}/Kiosk-${nodeConfig.has("shortId") ? nodeConfig.get("shortId") : ""}-%DATE%.log`,
+		datePattern: "YYYY-MM-DD",
+		zippedArchive: true,
+		maxSize: "20m",
+		maxFiles: "14d",
+		// "json": true,
+		// "level": env === "development" ? "debug" : "info"
+	});
 
-    const logLevel = env === "development" ? "debug" : "info";
+	const logLevel = env === "development" ? "debug" : "info";
 
-    const logger = createLogger({
-        // level: "info",
-        level: logLevel,
-        format: format.combine(
-            format.timestamp(),
-            format.prettyPrint()
-        ),
-        defaultMeta: { service: "index.ts" },
-        transports: [
-            infoTransport
-        ],
-    });
+	const logger = createLogger({
+		// level: "info",
+		level: logLevel,
+		format: format.combine(
+			format.timestamp(),
+			format.prettyPrint()
+		),
+		defaultMeta: { service: "index.ts" },
+		transports: [
+			infoTransport
+		],
+	});
 
 
-    // If we're not in production then log to the `console` with the format:
-    // `${info.level}: ${info.message} JSON.stringify({ ...rest }) `
+	// If we're not in production then log to the `console` with the format:
+	// `${info.level}: ${info.message} JSON.stringify({ ...rest }) `
 
-    if (env === "development") {
-        logger.add(new winston.transports.Console({
-            format: winston.format.simple(),
-            consoleWarnLevels: ["debug"]
-        }));
-        logger.debug("In Development Mode");
-    }
+	if (env === "development") {
+		logger.add(new winston.transports.Console({
+			format: winston.format.simple(),
+			consoleWarnLevels: ["debug"]
+		}));
+		logger.debug("In Development Mode");
+	}
 
-    infoTransport.on("rotate", function (oldFilename, newFilename) {
-        logger.info(`Changing Files from ${oldFilename} to ${newFilename}`);
-    });
-    return logger;
+	infoTransport.on("rotate", function (oldFilename, newFilename) {
+		logger.info(`Changing Files from ${oldFilename} to ${newFilename}`);
+	});
+	return logger;
 }
 export default setLogger;

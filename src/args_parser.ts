@@ -1,4 +1,3 @@
-"use strict";
 /* Args Parser
  * V1.0.1
  * Argument parser for Node.JS

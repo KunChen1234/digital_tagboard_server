@@ -7,7 +7,7 @@
 		"host": "localhost"
 	},
 	"nwInterface": "eth0",
-	"tcpPort": 8080,
+	"tcpPort": 14400,
 	"mqttBroker": "mqtt://192.168.1.105",
 	"mqttUser": "script",
 	"mqttPass": "Roo2021bucK",

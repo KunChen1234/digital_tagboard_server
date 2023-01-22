@@ -7,10 +7,10 @@
 		"host": "localhost"
 	},
 	"nwInterface": "eth0",
-	"tcpPort": 8080,
-	"mqttBroker": "mqtt://192.168.1.105",
-	"mqttUser": "script",
-	"mqttPass": "Roo2021bucK",
+	"tcpPort": 14400,
+	"mqttBroker": "mqtt://60.242.177.122",
+	"mqttUser": "server",
+	"mqttPass": "Roo-2021a",
 	"topicList": [
 		"device/info",
 		"device/messages",
