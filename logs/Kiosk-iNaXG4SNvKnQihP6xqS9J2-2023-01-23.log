@@ -1372,3 +1372,27 @@
   service: 'index.ts',
   timestamp: '2023-01-22T22:25:49.196Z'
 }
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'day shift',
+  timestamp: '2023-01-22T22:25:59.198Z'
+}
+{
+  message: [],
+  level: 'debug',
+  service: 'index.ts',
+  timestamp: '2023-01-22T22:25:59.199Z'
+}
+{
+  service: 'index.ts',
+  level: 'debug',
+  message: 'night shift',
+  timestamp: '2023-01-22T22:25:59.208Z'
+}
+{
+  message: '',
+  level: 'debug',
+  service: 'index.ts',
+  timestamp: '2023-01-22T22:25:59.209Z'
+}
